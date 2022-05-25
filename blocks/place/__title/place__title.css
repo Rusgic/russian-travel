@@ -16,6 +16,19 @@
   max-height:152px;
 }
 
+#title3 {
+  max-height:76px;
+}
+
+#title4 {
+  max-height:152px;
+}
+
+#title5 {
+  max-height:76px;
+}
+
+
 @media screen and (min-width:1024px) and (max-width:1279px) {
   .place__title {
     margin-right:32px;
@@ -39,6 +52,19 @@
     max-height:92px;
   }
   
+  #title3 {
+    max-height:46px;
+  }
+  
+  #title4 {
+    max-height:192px;
+  }
+  
+  #title5 {
+    max-height:46px;
+  }
+  
+
 }
 
 @media screen and (max-width:767px) {
@@ -56,4 +82,18 @@
   #title1 {
     max-height:35px;
   }
+
+  #title3 {
+    max-height:35px;
+  }
+  
+  #title4 {
+    max-height:35px;
+  }
+  
+  #title5 {
+    max-height:35px;
+  }
+  
+
 }
