@@ -38,6 +38,7 @@
 @import url(../blocks/place/__url/place__url.css);
 @import url(../blocks/place/__website/place__website.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
+@import url(../blocks/place/__paragraphs/place__paragraphs.css);
 
 /*Cover*/
 @import url(../blocks/cover/cover.css);
