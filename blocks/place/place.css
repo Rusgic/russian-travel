@@ -1,0 +1,32 @@
+.place {
+  display:flex;
+  max-width:984px;
+  max-height:660px;
+  flex-wrap: wrap;
+  margin-top:80px;
+  }
+
+@media screen and (min-width:1024px) and (max-width:1279px) {
+  .place {
+    max-width:928px;
+    max-height:640px;
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:1023px) {
+  .place {
+    max-width:720px;
+    max-height:581px;
+    margin-top:73px;
+    }
+}
+
+@media screen and (max-width:767px) {
+  .place {
+    max-width:320px;
+    max-height:1042px;
+    margin-top:50px;
+    }
+}
+  
+
