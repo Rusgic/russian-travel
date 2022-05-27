@@ -6,7 +6,6 @@
     color:white;
     margin:0px;
     max-width:690px;
-    max-height:58px;
   }
 
 @media screen and (max-width:767px) {
@@ -14,13 +13,11 @@
     font-size: 32px;
     line-height: 35px;
     max-width:288px;
-    max-height:70px;
   }
 }
 
 @media screen and (min-width:767px) and (max-width:1023px) {
   .intro__title {
     max-width:720px;
-    max-height:70px;
   }
 }
