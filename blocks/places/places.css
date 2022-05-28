@@ -7,11 +7,7 @@
 
 @media screen and (min-width:1024px) and (max-width:1279px) {
   .places {
-<<<<<<< HEAD
     max-width:928px;
-=======
-    width:928px;
->>>>>>> 989c63022716779b9e76584e741e1274ad561b90
     margin:92px auto;
     }
 }
