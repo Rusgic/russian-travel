@@ -1,33 +1,22 @@
 .header__lang {
-    margin:46px 18px 0px auto;
+    margin:18px 18px 6px auto;
     color:white;
     text-decoration: none;
-  }
-  
-  .header__lang:hover {
-    opacity:0.5;
-  }
-
-  .header__lang:nth-child(2) {
-    text-decoration:underline;
+    font-size:24px;
+    line-height: 28px;
   }
   
   .header__lang:nth-child(3) {
-    margin-left:0px;
-    margin-right:48px;
+    margin:18px 0 6px;
   }
 
-  @media screen and (max-width:768px) {
-    .header__lang {
-      margin-top:30px;
+@media screen and (max-width:767px) {
+  .header__lang {
+    margin:14px 18px 8px auto;
+    font-size:18px;
+    line-height:20px;
     }
-    .header__lang:nth-child(3) {
-      margin-right:16px;
-    }
+  .header__lang:nth-child(3) {
+    margin:14px 0 8px;
   }
-
-  @media screen and (min-width:768px) and (max-width:1024px) {
-    .header__lang:nth-child(3) {
-      margin-right:24px;
-    }
-  }
+}

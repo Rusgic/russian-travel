@@ -9,7 +9,6 @@
   .lead__image {
     max-width: 320px;
     max-height:200px;
-    margin:0;
   }
 }
 
@@ -17,7 +16,6 @@
   .lead__image {
     max-width:768px;
     max-height:480px;
-    margin:0;
   }
 }
 
@@ -25,6 +23,5 @@
   .lead__image {
     max-width:928px;
     max-height:580px;
-    margin:0;
   }
 }
