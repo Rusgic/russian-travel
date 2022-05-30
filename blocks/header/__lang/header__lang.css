@@ -6,7 +6,7 @@
     line-height: 28px;
   }
   
-  .header__lang:nth-child(3) {
+  .header__lang:last-child {
     margin:18px 0 6px;
   }
 
@@ -16,7 +16,7 @@
     font-size:18px;
     line-height:20px;
     }
-  .header__lang:nth-child(3) {
+  .header__lang:last-child {
     margin:14px 0 8px;
   }
 }

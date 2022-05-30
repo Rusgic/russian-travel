@@ -5,6 +5,11 @@
   margin-top:80px;
   }
 
+.place:first-child {
+  margin-top:0;
+}
+
+
 @media screen and (min-width:1024px) and (max-width:1279px) {
   .place {
     max-width:928px;
